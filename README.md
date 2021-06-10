@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alfarabiivandinoor.
 - 👀 I’m interested in Web Developing and Software Development.
-- 🌱 I’m currently learning on HTML, PHP, JS, CSS and Python languages.
+- 🌱 I’m currently learning on HTML, PHP, Javascript, CSS and Python languages.
 - 💞️ I’m looking to collaborate on any programming project.
 - 📫 How to reach me? You can reach me by email at alfarabiin12@gmail.com.
 
